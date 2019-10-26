@@ -28,7 +28,8 @@
 
 ### Test latest build
 
-    sudo snap install --edge cheat
+    sudo snap install --edge cheat 
+    sudo snap install --cheat
 
 ## Install from store
 
